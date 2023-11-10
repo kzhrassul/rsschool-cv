@@ -19,8 +19,8 @@
 - Qualification: Bachelor of information system
 
 ## Work experience
-**July 2021 - March 2023: Fluor Kazakhstan Inc.**
-*Position: Construction Automation Mobility Lead on FGP/WPMP project. Location: KPJV, Tengiz.*
+**July 2021 - March 2023: Fluor Kazakhstan Inc.**<br>
+*Position: Construction Automation Mobility Lead on FGP/WPMP project. Location: KPJV, Tengiz.*<br>
 Responsibilities:
 - Lead the CATS Mobility Group on a day-to-day basis.
 - Establish and maintain strong working relationships with Information Management, MCPlus System Leads, Fluor Corporate SMEs and IT in order to oversee all aspects of Mobility App deployment.
@@ -32,8 +32,8 @@ Responsibilities:
 - Interface with Project Teams and MCPlus Administrators regarding work process and data transfers.
 - Develop and maintain training / users guides.
 
-**September 2013 – July 2021: Fluor Kazakhstan Inc.**
-*Position: IT Deskside support technician in KPJV Almaty branch*
+**September 2013 – July 2021: Fluor Kazakhstan Inc.**<br>
+*Position: IT Deskside support technician in KPJV Almaty branch*<br>
 Responsibilities:
 - Service-desk support for more than 200 users
 - Making new service-desk requests from users into ISM (IBM Service Management) and monitoring their progress, closing finished tickets.
@@ -42,8 +42,8 @@ Responsibilities:
 - Responsible for system security and enforcement of project information system standards including IP security, data safeguards, and system integrity benchmarks and measurements.
 - Supports the administrative processes of the FDNET communication networks and systems as required by project management.
 
-**09.12– 09.13: LLC «Grand FM»**
-*Position: Head of technical department*
+**09.12– 09.13: LLC «Grand FM»**<br>
+*Position: Head of technical department*<br>
 Responsibilities:
 - Helpdesk/Service desk support for more than 50 users
 - Ubuntu Server administering.
@@ -62,5 +62,5 @@ Responsibilities:
 - Office 365
 
 ## Cources and certificates
-[“Python for everybody”](https://coursera.org/share/2d447b43acc69debea689959a94cc54f)
+[“Python for everybody”](https://coursera.org/share/2d447b43acc69debea689959a94cc54f)<br>
 [“PowerBI Essentials training”](https://www.linkedin.com/learning/certificates/15329d11464352a4ec0255a23d751d4626a88da633cbfab09881e7cd4783d5f4?trk=share_certificate) 
